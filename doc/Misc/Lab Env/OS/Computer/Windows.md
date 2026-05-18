@@ -319,8 +319,10 @@ Shut down, Take Snapshot: `deploy`
 |      [VeraCrypt](https://www.veracrypt.fr/en/Home.html)      |
 |        [VLC media player](https://www.videolan.org/)         |
 |     [Visual Studio Code](https://code.visualstudio.com/)     |
+|              [WeChat](https://www.wechat.com/)               |
 |   [WindowsTerminal](https://github.com/microsoft/terminal)   |
 |                 [Yakit](https://yaklang.io/)                 |
+|              [百度网盘](https://pan.baidu.com/)              |
 
 ## 6. Usage
 

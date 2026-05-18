@@ -74,7 +74,7 @@ csrf=cRyG0g19wuZgUOOEk2MmdJLGnFJNjKoR&username=administrator&current-password=pe
 
 ### 2.8. Insufficient Workflow Validation
 
-正常购买商品后发现一个隐藏
+正常购买商品后发现一个隐藏参数
 
 ```
 Location: /cart/order-confirmation?order-confirmed=true
@@ -94,9 +94,32 @@ GET /cart/order-confirmation?order-confirmed=true
 GET /role-selector
 ```
 
-### 3.0. 四舍五入
+### 2.10. 四舍五入
 
-充值 0.016 到账 0.02
+目标金额显示为 0.01
+
+充值 0.018 到账 0.02
+
+或者充值两次 0.018 到账 0.04
+
+### 2.11. 科学计数法
+
+通过 1e+22 的形式绕过值的限制
+
+### 2.12. 收获地址
+
+目标有发货限制
+
+```
+650000 # 新疆维吾尔自治区
+```
+
+在设置收获地址时添加后缀绕过
+
+```
+新疆维吾尔自治区
+650000.0 # 新疆维吾尔自治区
+```
 
 ---
 

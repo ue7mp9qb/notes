@@ -18,9 +18,9 @@ A GUI client for Windows, Linux and macOS, support Xray and sing-box and others.
 
 ![启动后自动隐藏](./../../../../../../image/V2rayN/%E5%90%AF%E5%8A%A8%E5%90%8E%E8%87%AA%E5%8A%A8%E9%9A%90%E8%97%8F.png)
 
-路由设置为全局
+路由设置为绕过大陆
 
-![路由设置为全局](./../../../../../../image/V2rayN/%E8%B7%AF%E7%94%B1%E8%AE%BE%E7%BD%AE%E4%B8%BA%E5%85%A8%E5%B1%80.png)
+![路由设置为绕过大陆](./../../../../../../image/V2rayN/%E8%B7%AF%E7%94%B1%E8%AE%BE%E7%BD%AE%E4%B8%BA%E7%BB%95%E8%BF%87%E5%A4%A7%E9%99%86.png)
 
 ---
 
