@@ -308,7 +308,6 @@ Shut down, Take Snapshot: `deploy`
 |               [PixPin](https://pixpinapp.com/)               |
 | [PowerShell](https://apps.microsoft.com/detail/9mz1snwt0n5d?hl=en-US&gl=DE) |
 |           [Proxifier](https://www.proxifier.com/)            |
-|         [qBittorrent](https://www.qbittorrent.org/)          |
 |        [scrcpy](https://github.com/Genymobile/scrcpy)        |
 |         [Stretchly](https://hovancik.net/stretchly/)         |
 |             [Syncthing](https://syncthing.net/)              |
@@ -321,6 +320,7 @@ Shut down, Take Snapshot: `deploy`
 |     [Visual Studio Code](https://code.visualstudio.com/)     |
 |              [WeChat](https://www.wechat.com/)               |
 |   [WindowsTerminal](https://github.com/microsoft/terminal)   |
+|           [xray](https://github.com/chaitin/xray)            |
 |                 [Yakit](https://yaklang.io/)                 |
 |              [百度网盘](https://pan.baidu.com/)              |
 
